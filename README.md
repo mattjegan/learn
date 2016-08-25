@@ -1,2 +1,32 @@
-# learn
-My list of things to learn
+# Learn
+This is my list of things that I'd like to learn. Mostly this will relate to software development but may include other stuff. If you feel like this list contains a lot of things you'd like to learn please feel free to fork the repo. If there are things that you think I'd be interesting in learning or there are better links to learn from I urge you to submit a pull request.
+
+# The List
+
+## Tools
+
+- [ ] [Kubernetes](http://kubernetes.io/)
+- [ ] [Docker](https://www.docker.com/)
+- [ ] [Vagrant](https://www.vagrantup.com/)
+- [ ] [GitLab](https://gitlab.com/)
+- [ ] [Spark](spark.apache.org/)
+- [ ] [ElasticSearch](https://github.com/elastic/elasticsearch)
+
+## Programming Languages
+
+- [ ] [Javascript](https://www.javascript.com/)
+- [ ] [D](https://dlang.org/)
+- [ ] [Haskell](https://www.haskell.org/)
+
+### Python
+
+- [ ] [Futures](https://docs.python.org/3/library/concurrent.futures.html)
+
+## Theory
+
+- [ ] [Parellelism](https://computing.llnl.gov/tutorials/parallel_comp/)
+- [ ] [Concurrency](https://en.wikipedia.org/wiki/Concurrency_(computer_science))
+- [ ] Statistical Analysis
+- [ ] [Linear Programming](https://www.math.ucla.edu/~tom/LP.pdf)
+- [ ] [Operating Systems](https://www.udacity.com/wiki/ud923)
+- [ ] [Cryptography](https://www.coursera.org/learn/crypto)

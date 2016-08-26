@@ -11,16 +11,18 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
 - [ ] [GitLab](https://gitlab.com/)
 - [ ] [Spark](spark.apache.org/)
 - [ ] [ElasticSearch](https://github.com/elastic/elasticsearch)
+- [ ] [MongoDB](https://www.mongodb.com/)
 
-## Programming Languages
+## "Programming" Languages
 
 - [ ] [Javascript](https://www.javascript.com/)
 - [ ] [D](https://dlang.org/)
 - [ ] [Haskell](https://www.haskell.org/)
+- [ ] [SCSS](http://sass-lang.com/)
 
 ### Python
 
-- [ ] [Futures](https://docs.python.org/3/library/concurrent.futures.html)
+- [x] [Futures](https://docs.python.org/3/library/concurrent.futures.html)
 
 ## Theory
 

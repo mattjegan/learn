@@ -15,7 +15,12 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
 
 ## "Programming" Languages
 
-- [ ] [Javascript](https://www.javascript.com/)
+- [x] [Javascript](https://www.javascript.com/)
+-- [x] [Jquery](https://jquery.com/)
+-- [ ] [Angular](https://angularjs.org/)
+-- [ ] [React](https://facebook.github.io/react/)
+-- [ ] [Ember](emberjs.com/)
+-- [ ] [Backbone](backbonejs.org/)
 - [ ] [D](https://dlang.org/)
 - [ ] [Haskell](https://www.haskell.org/)
 - [ ] [SCSS](http://sass-lang.com/)

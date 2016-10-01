@@ -45,6 +45,30 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
 - [ ] [scikit-learn](http://scikit-learn.org/)
 - [ ] [Machine-Learning](https://en.wikipedia.org/wiki/Machine_learning)
 
+## Machine Learning
+
+
+### Neural Network
+
+- [ ] [Convolution Neural Network](https://en.wikipedia.org/wiki/Convolutional_neural_network)
+- [ ] [Recurrent Neural Network] (https://en.wikipedia.org/wiki/Recurrent_neural_network)
+- [ ] [Bidirectional Associative Memory] (https://en.wikipedia.org/wiki/Bidirectional_associative_memory)
+- [ ] [Long Short Time Memory] (http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+- [ ] [Hopfield Network] (https://en.wikipedia.org/wiki/Hopfield_network
+)
+- [ ] [Gaussian Mixture Models] (http://scikit-learn.org/stable/modules/mixture.html) 
+
+### Learning Algorithms
+
+- [ ] [Reinforcement Learning] (https://en.wikipedia.org/wiki/Reinforcement_learning)
+- [ ] [Regression] (https://www.coursera.org/learn/ml-regression)
+- [ ] [Support Vector Machines] (https://www.youtube.com/watch?v=_PwhiWxHK8o
+)
+- [ ] [K-Nearest Neighbors] (https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm
+)
+- 
+
+
 ## Theory
 
 - [ ] [Parellelism](https://computing.llnl.gov/tutorials/parallel_comp/)

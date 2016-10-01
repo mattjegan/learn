@@ -22,6 +22,8 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
   - [ ] [React](https://facebook.github.io/react/)
   - [ ] [Ember](emberjs.com/)
   - [ ] [Backbone](backbonejs.org/)
+  - [ ] [Node.js](https://nodejs.org/en/)
+  - [ ] [ES6](https://en.wikipedia.org/wiki/ECMAScript#6th_Edition_-_ECMAScript_2015
 - [ ] [D](https://dlang.org/)
 - [ ] [Haskell](https://www.haskell.org/)
 - [ ] [SCSS](http://sass-lang.com/)

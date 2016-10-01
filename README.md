@@ -16,6 +16,9 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
 - [ ] [Nginx](https://www.nginx.com)
 - [ ] [Let's Encrypt](https://letsencrypt.org/)
 - [ ] [Bash Shell](http://www.bash.academy/)
+- [ ] [Vim] (https://robots.thoughtbot.com/the-vim-learning-curve-is-a-myth)
+- [ ] [GitHub Desktop] (https://desktop.github.com/)
+- [ ] [GitKraken] (https://www.gitkraken.com/)
 
 ## "Programming" Languages
 
@@ -44,6 +47,7 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
 - [ ] [Matplotlib](http://matplotlib.org/)
 - [ ] [scikit-learn](http://scikit-learn.org/)
 - [ ] [Machine-Learning](https://en.wikipedia.org/wiki/Machine_learning)
+- [ ] [APIs] (https://www.codecademy.com/en/tracks/npr)
 
 ## Theory
 

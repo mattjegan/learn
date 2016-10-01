@@ -13,6 +13,8 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
 - [ ] [ElasticSearch](https://github.com/elastic/elasticsearch)
 - [ ] [MongoDB](https://www.mongodb.com/)
 - [ ] [Rancher](http://rancher.com/)
+- [ ] [Nginx](https://www.nginx.com)
+- [ ] [Let's Encrypt](https://letsencrypt.org/)
 
 ## "Programming" Languages
 
@@ -25,13 +27,6 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
 - [ ] [D](https://dlang.org/)
 - [ ] [Haskell](https://www.haskell.org/)
 - [ ] [SCSS](http://sass-lang.com/)
-
-## Programming Paradigms
-
-- [x] [Imperative Programming](https://en.wikipedia.org/wiki/Imperative_programming)
-- [x] [Object oriented Programming](https://en.wikipedia.org/wiki/Object-oriented_programming)
-- [ ] [Functional Programming](https://en.wikipedia.org/wiki/Functional_programming)
-- [x] [Logic Programming](https://en.wikipedia.org/wiki/Logic_programming)
 
 ### Python
 

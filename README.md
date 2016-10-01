@@ -27,6 +27,8 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
   - [ ] [Backbone](backbonejs.org/)
   - [ ] [Node.js](https://nodejs.org/en/)
   - [ ] [ES6](https://en.wikipedia.org/wiki/ECMAScript#6th_Edition_-_ECMAScript_2015)
+- [ ] [C](http://www.tutorialspoint.com/cprogramming/)
+- [ ] [C++](http://www.tutorialspoint.com/cplusplus/)
 - [ ] [D](https://dlang.org/)
 - [ ] [Haskell](https://www.haskell.org/)
 - [x] [HTML](https://www.w3.org/html/)

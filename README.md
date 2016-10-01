@@ -13,6 +13,8 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
 - [ ] [ElasticSearch](https://github.com/elastic/elasticsearch)
 - [ ] [MongoDB](https://www.mongodb.com/)
 - [ ] [Rancher](http://rancher.com/)
+- [ ] [Nginx](https://www.nginx.com)
+- [ ] [Let's Encrypt](https://letsencrypt.org/)
 
 ## "Programming" Languages
 
@@ -31,6 +33,11 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
 ### Python
 
 - [x] [Futures](https://docs.python.org/3/library/concurrent.futures.html)
+- [ ] [Numpy](http://www.numpy.org/)
+- [ ] [Scipy](https://scipy.org/)
+- [ ] [Matplotlib](http://matplotlib.org/)
+- [ ] [scikit-learn](http://scikit-learn.org/)
+- [ ] [Machine-Learning](https://en.wikipedia.org/wiki/Machine_learning)
 
 ## Theory
 
@@ -40,3 +47,5 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
 - [ ] [Linear Programming](https://www.math.ucla.edu/~tom/LP.pdf)
 - [ ] [Operating Systems](https://www.udacity.com/wiki/ud923)
 - [ ] [Cryptography](https://www.coursera.org/learn/crypto)
+- [x] [RESTful web services](https://en.wikipedia.org/wiki/Representational_state_transfer)
+

@@ -44,6 +44,8 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
 - [ ] [Tensorflow](https://www.tensorflow.org/)
 - [ ] [Scala](http://www.scala-lang.org/)
 - [ ] [Groovy](http://www.groovy-lang.org/)
+- [ ] [Scala] (http://docs.scala-lang.org/tutorials/scala-for-java-programmers.html)
+- [ ] [Clojure] (http://clojure-doc.org/articles/tutorials/getting_started.html)
 
 ### Python
 
@@ -53,6 +55,7 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
 - [ ] [Scipy](https://scipy.org/)
 - [ ] [Matplotlib](http://matplotlib.org/)
 - [ ] [scikit-learn](http://scikit-learn.org/)
+- [ ] [Natural Language Processing] (http://www.nltk.org/)
 
 ## Machine Learning
 - [ ] [Concepts and Techniques](https://en.wikipedia.org/wiki/Machine_learning)
@@ -71,12 +74,11 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
   - [ ] [Long Short Time Memory] (http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
   - [ ] [Hopfield Network] (https://en.wikipedia.org/wiki/Hopfield_network)
   - [ ] [Gaussian Mixture Models] (http://scikit-learn.org/stable/modules/mixture.html) 
-- [ ] Frameworks and Tools
+  - [ ] Frameworks and Tools
   - [ ] [Torch](http://torch.ch/)
   - [ ] [Theano](https://github.com/Theano/Theano)
   - [ ] [TensorFlow](https://www.tensorflow.org/)
   - [ ] [APIs] (https://www.codecademy.com/en/tracks/npr)
-
 
 ## Theory
 

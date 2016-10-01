@@ -51,3 +51,6 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
 - [ ] [Cryptography](https://www.coursera.org/learn/crypto)
 - [x] [RESTful web services](https://en.wikipedia.org/wiki/Representational_state_transfer)
 
+## Internet of Things
+- [ ] Arduino(https://www.arduino.cc/)
+- [ ] ESP8266(http://www.esp8266.com/)

@@ -28,6 +28,8 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
   - [ ] [ES6](https://en.wikipedia.org/wiki/ECMAScript#6th_Edition_-_ECMAScript_2015)
 - [ ] [D](https://dlang.org/)
 - [ ] [Haskell](https://www.haskell.org/)
+- [x] [HTML](https://www.w3.org/html/)
+- [ ] [CSS](https://www.w3.org/Style/CSS/Overview.en.html)
 - [ ] [SCSS](http://sass-lang.com/)
 - [x] [Java](http://www.tutorialspoint.com/java/)
 - [ ] [Elixir](http://elixir-lang.org/)

@@ -15,6 +15,7 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
 - [ ] [Rancher](http://rancher.com/)
 - [ ] [Nginx](https://www.nginx.com)
 - [ ] [Let's Encrypt](https://letsencrypt.org/)
+- [ ] [Bash Shell](http://www.bash.academy/)
 
 ## "Programming" Languages
 

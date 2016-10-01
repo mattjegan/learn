@@ -59,3 +59,10 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
 ## Internet of Things
 - [ ] Arduino(https://www.arduino.cc/)
 - [ ] ESP8266(http://www.esp8266.com/)
+
+## CMS (content management system )
+### used for websites,blogs etc
+- [ ] [Wordpress CMS]
+- [ ] [October CMS](https://octobercms.com/docs/cms/themes)
+- [ ] [Joomla]
+- [ ] [Drupal]

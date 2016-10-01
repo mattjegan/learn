@@ -36,6 +36,10 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
 ### Python
 
 - [x] [Futures](https://docs.python.org/3/library/concurrent.futures.html)
+- [ ] [Numpy](http://www.numpy.org/)
+- [ ] [Scipy](https://scipy.org/)
+- [ ] [Matplotlib](http://matplotlib.org/)
+- [ ] [scikit-learn](http://scikit-learn.org/)
 
 ## Theory
 

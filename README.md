@@ -38,3 +38,8 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
 - [ ] [Linear Programming](https://www.math.ucla.edu/~tom/LP.pdf)
 - [ ] [Operating Systems](https://www.udacity.com/wiki/ud923)
 - [ ] [Cryptography](https://www.coursera.org/learn/crypto)
+
+## Internet of Things
+- [ ] Arduino(https://www.arduino.cc/)
+- [ ] ESP8266(http://www.esp8266.com/)
+

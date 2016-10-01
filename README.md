@@ -43,7 +43,21 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
 - [ ] [Scipy](https://scipy.org/)
 - [ ] [Matplotlib](http://matplotlib.org/)
 - [ ] [scikit-learn](http://scikit-learn.org/)
-- [ ] [Machine-Learning](https://en.wikipedia.org/wiki/Machine_learning)
+
+## Machine Learning
+- [ ] [Concepts and Techniques](https://en.wikipedia.org/wiki/Machine_learning)
+  - [ ] [Linear Classifiers](https://en.wikipedia.org/wiki/Linear_classifier)
+  - [ ] [Bayesian Modelling](https://en.wikipedia.org/wiki/Bayesian_network)
+  - [ ] [Neural Networks](https://en.wikipedia.org/wiki/Artificial_neural_network)
+  - [ ] [Clustering](https://en.wikipedia.org/wiki/Cluster_analysis)
+  - [ ] [Convolution NNs](http://cs231n.github.io/neural-networks-case-study/)
+  - [ ] [Recurrent NNs](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
+  - [ ] [Deep Networks](https://en.wikipedia.org/wiki/Deep_learning)
+  - [ ] [Support Vector Machines](https://en.wikipedia.org/wiki/Support_vector_machine)
+- [ ] Frameworks
+  - [ ] [Torch](http://torch.ch/)
+  - [ ] [Theano](https://github.com/Theano/Theano)
+  - [ ] [TensorFlow](https://www.tensorflow.org/)
 
 ## Theory
 

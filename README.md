@@ -16,7 +16,7 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
 - [ ] [Nginx](https://www.nginx.com)
 - [ ] [Let's Encrypt](https://letsencrypt.org/)
 - [ ] [Bash Shell](http://www.bash.academy/)
-
+- [ ] [AWS] (https://aws.amazon.com/)
 ## "Programming" Languages
 
 - [x] [Javascript](https://www.javascript.com/)

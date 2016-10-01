@@ -25,7 +25,7 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
 - [ ] [D](https://dlang.org/)
 - [ ] [Haskell](https://www.haskell.org/)
 - [ ] [SCSS](http://sass-lang.com/)
-- [ ] [Java]
+- [x] [Java](http://www.tutorialspoint.com/java/)
 
 ### Python
 

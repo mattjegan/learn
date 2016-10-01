@@ -35,6 +35,8 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
 - [x] [Java](http://www.tutorialspoint.com/java/)
 - [ ] [Elixir](http://elixir-lang.org/)
 - [ ] [Tensorflow](https://www.tensorflow.org/)
+- [ ] [Scala] (http://docs.scala-lang.org/tutorials/scala-for-java-programmers.html)
+- [ ] [Clojure] (http://clojure-doc.org/articles/tutorials/getting_started.html)
 
 ### Python
 
@@ -44,6 +46,7 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
 - [ ] [Matplotlib](http://matplotlib.org/)
 - [ ] [scikit-learn](http://scikit-learn.org/)
 - [ ] [Machine-Learning](https://en.wikipedia.org/wiki/Machine_learning)
+- [ ] [Natural Language Processing] (http://www.nltk.org/)
 
 ## Theory
 

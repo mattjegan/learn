@@ -45,3 +45,5 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
 - [ ] [Linear Programming](https://www.math.ucla.edu/~tom/LP.pdf)
 - [ ] [Operating Systems](https://www.udacity.com/wiki/ud923)
 - [ ] [Cryptography](https://www.coursera.org/learn/crypto)
+- [x] [RESTful web services](https://en.wikipedia.org/wiki/Representational_state_transfer)
+

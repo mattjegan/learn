@@ -26,6 +26,13 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
 - [ ] [Haskell](https://www.haskell.org/)
 - [ ] [SCSS](http://sass-lang.com/)
 
+## Programming Paradigms
+
+- [ ] [Imperative Programming](https://en.wikipedia.org/wiki/Imperative_programming)
+- [ ] [Object oriented Programming](https://en.wikipedia.org/wiki/Object-oriented_programming)
+- [ ] [Functional Programming](https://en.wikipedia.org/wiki/Functional_programming)
+- [ ] [Logic Programming](https://en.wikipedia.org/wiki/Logic_programming)
+
 ### Python
 
 - [x] [Futures](https://docs.python.org/3/library/concurrent.futures.html)

@@ -98,7 +98,7 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
 
 ## CMS (content management system )
 ### used for websites,blogs etc
-- [ ] [Wordpress CMS]
+- [ ] [Wordpress CMS](https://wordpress.org/download/)
 - [ ] [October CMS](https://octobercms.com/docs/cms/themes)
-- [ ] [Joomla]
-- [ ] [Drupal]
+- [ ] [Joomla](https://www.joomla.org/)
+- [ ] [Drupal](https://www.drupal.org/)

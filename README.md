@@ -42,6 +42,7 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
 - [ ] [Elixir](http://elixir-lang.org/)
 - [ ] [Tensorflow](https://www.tensorflow.org/)
 - [ ] [Scala](http://www.scala-lang.org/)
+- [ ] [Groovy](http://www.groovy-lang.org/)
 
 ### Python
 

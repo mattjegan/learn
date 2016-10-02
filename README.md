@@ -55,6 +55,7 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
 - [ ] [Scipy](https://scipy.org/)
 - [ ] [Matplotlib](http://matplotlib.org/)
 - [ ] [scikit-learn](http://scikit-learn.org/)
+- [ ] [asyncio](https://docs.python.org/3/library/asyncio.html)
 
 ## Machine Learning
 - [ ] [Concepts and Techniques](https://en.wikipedia.org/wiki/Machine_learning)

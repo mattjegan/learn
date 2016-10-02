@@ -95,6 +95,7 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
 
 - [ ] [Arduino](https://www.arduino.cc/)
 - [ ] [ESP8266](http://www.esp8266.com/)
+- [ ] [Raspberry Pi](https://www.raspberrypi.org/)
 
 ## CMS (content management system )
 ### used for websites,blogs etc

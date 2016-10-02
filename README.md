@@ -55,7 +55,6 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
 - [ ] [Scipy](https://scipy.org/)
 - [ ] [Matplotlib](http://matplotlib.org/)
 - [ ] [scikit-learn](http://scikit-learn.org/)
-- [ ] [Natural Language Processing] (http://www.nltk.org/)
 
 ## Machine Learning
 - [ ] [Concepts and Techniques](https://en.wikipedia.org/wiki/Machine_learning)
@@ -79,6 +78,7 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
   - [ ] [Theano](https://github.com/Theano/Theano)
   - [ ] [TensorFlow](https://www.tensorflow.org/)
   - [ ] [APIs] (https://www.codecademy.com/en/tracks/npr)
+  - [ ] [Natural Language Processing] (http://www.nltk.org/)
 
 ## Theory
 

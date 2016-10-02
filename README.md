@@ -93,7 +93,11 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
 - [ ] [Operating Systems](https://www.udacity.com/wiki/ud923)
 - [ ] [Cryptography](https://www.coursera.org/learn/crypto)
 - [x] [RESTful web services](https://en.wikipedia.org/wiki/Representational_state_transfer)
+<<<<<<< HEAD
+- [ ] [Category Theory](https://en.wikipedia.org/wiki/Category_theory)
+=======
 - [ ] [Android](https://developer.android.com/training/index.html)
+>>>>>>> refs/remotes/origin/master
 
 ## Internet of Things
 - [ ] Arduino(https://www.arduino.cc/)

@@ -82,7 +82,6 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
   - [ ] [Natural Language Processing] (http://www.nltk.org/)
   - [ ] Extended Backus-Naur Form (EBNF)
   
-
 ## Theory
 
 - [ ] [Parellelism](https://computing.llnl.gov/tutorials/parallel_comp/)

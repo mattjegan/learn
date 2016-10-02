@@ -5,6 +5,7 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
 
 ## Tools
 
+- [ ] [Pyenv](https://github.com/yyuu/pyenv)
 - [ ] [Kubernetes](http://kubernetes.io/)
 - [ ] [Docker](https://www.docker.com/)
 - [ ] [Vagrant](https://www.vagrantup.com/)

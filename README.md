@@ -62,7 +62,7 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
   - [ ] [Bayesian Modelling](https://en.wikipedia.org/wiki/Bayesian_network)
   - [ ] [Neural Networks](https://en.wikipedia.org/wiki/Artificial_neural_network)
   - [ ] [Regression] (https://www.coursera.org/learn/ml-regression)
-  - [ ] [K-Nearest Neighbors] (https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm
+  - [ ] [K-Nearest Neighbors] (https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm)
   - [ ] [Clustering](https://en.wikipedia.org/wiki/Cluster_analysis)
   - [ ] [Reinforcement Learning] (https://en.wikipedia.org/wiki/Reinforcement_learning)
   - [ ] [Convolution Neural Networks](http://cs231n.github.io/neural-networks-case-study/)

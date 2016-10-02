@@ -56,6 +56,7 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
 - [x] [RESTful web services](https://en.wikipedia.org/wiki/Representational_state_transfer)
 - [ ] [Quantum Computing] (https://ocw.mit.edu/courses/mathematics/18-435j-quantum-computation-fall-2003/)
 - [ ] [Coding Theory] (https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-895-essential-coding-theory-fall-2004/)
-## Internet of Things
+
+### Internet of Things
 - [ ] Arduino(https://www.arduino.cc/)
 - [ ] ESP8266(http://www.esp8266.com/)

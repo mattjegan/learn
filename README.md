@@ -41,6 +41,7 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
 - [ ] [SCSS](http://sass-lang.com/)
 - [x] [Java](http://www.tutorialspoint.com/java/)
 - [ ] [Elixir](http://elixir-lang.org/)
+- [ ] [Erlang](https://www.erlang.org/)
 - [ ] [Tensorflow](https://www.tensorflow.org/)
 - [ ] [Scala](http://www.scala-lang.org/)
 - [ ] [Groovy](http://www.groovy-lang.org/)
@@ -62,7 +63,7 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
   - [ ] [Bayesian Modelling](https://en.wikipedia.org/wiki/Bayesian_network)
   - [ ] [Neural Networks](https://en.wikipedia.org/wiki/Artificial_neural_network)
   - [ ] [Regression] (https://www.coursera.org/learn/ml-regression)
-  - [ ] [K-Nearest Neighbors] (https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm
+  - [ ] [K-Nearest Neighbors] (https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm)
   - [ ] [Clustering](https://en.wikipedia.org/wiki/Cluster_analysis)
   - [ ] [Reinforcement Learning] (https://en.wikipedia.org/wiki/Reinforcement_learning)
   - [ ] [Convolution Neural Networks](http://cs231n.github.io/neural-networks-case-study/)
@@ -79,6 +80,8 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
   - [ ] [TensorFlow](https://www.tensorflow.org/)
   - [ ] [APIs] (https://www.codecademy.com/en/tracks/npr)
   - [ ] [Natural Language Processing] (http://www.nltk.org/)
+  - [ ] Extended Backus-Naur Form (EBNF)
+  
 
 ## Theory
 

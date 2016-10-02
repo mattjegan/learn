@@ -46,6 +46,7 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
 - [ ] [Groovy](http://www.groovy-lang.org/)
 - [ ] [Scala] (http://docs.scala-lang.org/tutorials/scala-for-java-programmers.html)
 - [ ] [Clojure] (http://clojure-doc.org/articles/tutorials/getting_started.html)
+- [ ] [R](https://www.coursera.org/learn/r-programming/)
 
 ### Python
 
@@ -90,6 +91,8 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
 - [ ] [Cryptography](https://www.coursera.org/learn/crypto)
 - [x] [RESTful web services](https://en.wikipedia.org/wiki/Representational_state_transfer)
 - [ ] [Android](https://developer.android.com/training/index.html)
+- [ ] [Game Theory](https://www.coursera.org/learn/game-theory-introduction)
+- [ ] [Computer Networks](http://www.saylor.org/site/wp-content/uploads/2012/02/Computer-Networking-Principles-Bonaventure-1-30-31-OTC1.pdf)
 
 ## Internet of Things
 - [ ] Arduino(https://www.arduino.cc/)

@@ -44,6 +44,7 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
 
 ### Python
 
+- [ ] [Itertools](https://docs.python.org/3/library/itertools.html)
 - [x] [Futures](https://docs.python.org/3/library/concurrent.futures.html)
 - [ ] [Numpy](http://www.numpy.org/)
 - [ ] [Scipy](https://scipy.org/)

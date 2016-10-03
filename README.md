@@ -32,8 +32,12 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
   - [ ] [Node.js](https://nodejs.org/en/)
   - [ ] [Express.js](https://expressjs.com/)
   - [ ] [ES6](https://en.wikipedia.org/wiki/ECMAScript#6th_Edition_-_ECMAScript_2015)
+<<<<<<< HEAD
+  - [ ] [Oracle JET](http://www.oracle.com/webfolder/technetwork/jet/index.html)
+=======
 - [ ] [C](http://www.tutorialspoint.com/cprogramming/)
 - [ ] [C++](http://www.tutorialspoint.com/cplusplus/)
+>>>>>>> refs/remotes/mattjegan/master
 - [ ] [D](https://dlang.org/)
 - [ ] [Haskell](https://www.haskell.org/)
 - [x] [HTML](https://www.w3.org/html/)

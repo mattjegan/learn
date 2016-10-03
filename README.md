@@ -17,6 +17,7 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
 - [ ] [Nginx](https://www.nginx.com)
 - [ ] [Let's Encrypt](https://letsencrypt.org/)
 - [ ] [Bash Shell](http://www.bash.academy/)
+- [ ] [AWS] (https://aws.amazon.com/)
 - [ ] [Vim] (https://robots.thoughtbot.com/the-vim-learning-curve-is-a-myth)
 - [ ] [GitHub Desktop] (https://desktop.github.com/)
 - [ ] [GitKraken] (https://www.gitkraken.com/)

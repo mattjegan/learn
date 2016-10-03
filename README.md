@@ -34,10 +34,6 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
   - [ ] [Express.js](https://expressjs.com/)
   - [ ] [ES6](https://en.wikipedia.org/wiki/ECMAScript#6th_Edition_-_ECMAScript_2015)
   - [ ] [Oracle JET](http://www.oracle.com/webfolder/technetwork/jet/index.html)
-- [_] [Python](https://www.python.org/)
-  - [_] [Web2Py](http://www.web2py.com/)
-  - [_] [Django](https://www.djangoproject.com/)
-  - [_] [Flask](http://flask.pocoo.org/)
 - [ ] [C](http://www.tutorialspoint.com/cprogramming/)
 - [ ] [C++](http://www.tutorialspoint.com/cplusplus/)
 - [ ] [D](https://dlang.org/)
@@ -64,6 +60,9 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
 - [ ] [Matplotlib](http://matplotlib.org/)
 - [ ] [scikit-learn](http://scikit-learn.org/)
 - [ ] [asyncio](https://docs.python.org/3/library/asyncio.html)
+- [_] [Web2Py](http://www.web2py.com/)
+- [x] [Django](https://www.djangoproject.com/)
+- [_] [Flask](http://flask.pocoo.org/)
 
 ## Machine Learning
 - [ ] [Concepts and Techniques](https://en.wikipedia.org/wiki/Machine_learning)

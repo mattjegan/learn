@@ -46,6 +46,7 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
 - [ ] [SCSS](http://sass-lang.com/)
 - [x] [Java](http://www.tutorialspoint.com/java/)
 - [ ] [Elixir](http://elixir-lang.org/)
+- [ ] [Erlang](https://www.erlang.org/)
 - [ ] [Tensorflow](https://www.tensorflow.org/)
 - [ ] [Scala](http://www.scala-lang.org/)
 <<<<<<< HEAD
@@ -91,7 +92,8 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
   - [ ] [TensorFlow](https://www.tensorflow.org/)
   - [ ] [APIs] (https://www.codecademy.com/en/tracks/npr)
   - [ ] [Natural Language Processing] (http://www.nltk.org/)
-
+  - [ ] Extended Backus-Naur Form (EBNF)
+  
 ## Theory
 
 - [ ] [Parellelism](https://computing.llnl.gov/tutorials/parallel_comp/)

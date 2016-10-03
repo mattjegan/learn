@@ -10,7 +10,7 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
 - [ ] [Docker](https://www.docker.com/)
 - [ ] [Vagrant](https://www.vagrantup.com/)
 - [ ] [GitLab](https://gitlab.com/)
-- [ ] [Spark](spark.apache.org/)
+- [ ] [Spark](http://spark.apache.org/)
 - [ ] [ElasticSearch](https://github.com/elastic/elasticsearch)
 - [ ] [MongoDB](https://www.mongodb.com/)
 - [ ] [Rancher](http://rancher.com/)
@@ -27,8 +27,8 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
   - [x] [Jquery](https://jquery.com/)
   - [ ] [Angular](https://angularjs.org/)
   - [ ] [React](https://facebook.github.io/react/)
-  - [ ] [Ember](emberjs.com/)
-  - [ ] [Backbone](backbonejs.org/)
+  - [ ] [Ember](http://emberjs.com/)
+  - [ ] [Backbone](http://backbonejs.org/)
   - [ ] [Node.js](https://nodejs.org/en/)
   - [ ] [Express.js](https://expressjs.com/)
   - [ ] [ES6](https://en.wikipedia.org/wiki/ECMAScript#6th_Edition_-_ECMAScript_2015)
@@ -62,7 +62,7 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
   - [ ] [Bayesian Modelling](https://en.wikipedia.org/wiki/Bayesian_network)
   - [ ] [Neural Networks](https://en.wikipedia.org/wiki/Artificial_neural_network)
   - [ ] [Regression] (https://www.coursera.org/learn/ml-regression)
-  - [ ] [K-Nearest Neighbors] (https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm
+  - [ ] [K-Nearest Neighbors] (https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm)
   - [ ] [Clustering](https://en.wikipedia.org/wiki/Cluster_analysis)
   - [ ] [Reinforcement Learning] (https://en.wikipedia.org/wiki/Reinforcement_learning)
   - [ ] [Convolution Neural Networks](http://cs231n.github.io/neural-networks-case-study/)
@@ -92,12 +92,14 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
 - [ ] [Android](https://developer.android.com/training/index.html)
 
 ## Internet of Things
-- [ ] Arduino(https://www.arduino.cc/)
-- [ ] ESP8266(http://www.esp8266.com/)
+
+- [ ] [Arduino](https://www.arduino.cc/)
+- [ ] [ESP8266](http://www.esp8266.com/)
+- [ ] [Raspberry Pi](https://www.raspberrypi.org/)
 
 ## CMS (content management system )
 ### used for websites,blogs etc
-- [ ] [Wordpress CMS]
+- [ ] [Wordpress CMS](https://wordpress.org/download/)
 - [ ] [October CMS](https://octobercms.com/docs/cms/themes)
-- [ ] [Joomla]
-- [ ] [Drupal]
+- [ ] [Joomla](https://www.joomla.org/)
+- [ ] [Drupal](https://www.drupal.org/)

@@ -47,9 +47,16 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
 - [ ] [Elixir](http://elixir-lang.org/)
 - [ ] [Tensorflow](https://www.tensorflow.org/)
 - [ ] [Scala](http://www.scala-lang.org/)
+<<<<<<< HEAD
+- [ ] [Go](https://golang.org/)
+=======
 - [ ] [Groovy](http://www.groovy-lang.org/)
+<<<<<<< HEAD
+>>>>>>> refs/remotes/origin/master
+=======
 - [ ] [Scala] (http://docs.scala-lang.org/tutorials/scala-for-java-programmers.html)
 - [ ] [Clojure] (http://clojure-doc.org/articles/tutorials/getting_started.html)
+>>>>>>> refs/remotes/origin/master
 
 ### Python
 
@@ -93,7 +100,11 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
 - [ ] [Operating Systems](https://www.udacity.com/wiki/ud923)
 - [ ] [Cryptography](https://www.coursera.org/learn/crypto)
 - [x] [RESTful web services](https://en.wikipedia.org/wiki/Representational_state_transfer)
+<<<<<<< HEAD
+- [ ] [Category Theory](https://en.wikipedia.org/wiki/Category_theory)
+=======
 - [ ] [Android](https://developer.android.com/training/index.html)
+>>>>>>> refs/remotes/origin/master
 
 ## Internet of Things
 

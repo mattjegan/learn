@@ -48,6 +48,7 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
 - [ ] [Scala](http://www.scala-lang.org/)
 - [ ] [Go](https://golang.org/)
 - [ ] [Groovy](http://www.groovy-lang.org/)
+- [ ] [Haskell](https://www.haskell.org/)
 - [ ] [Scala] (http://docs.scala-lang.org/tutorials/scala-for-java-programmers.html)
 - [ ] [Clojure] (http://clojure-doc.org/articles/tutorials/getting_started.html)
 - [ ] [R](https://www.coursera.org/learn/r-programming/)
@@ -81,7 +82,9 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
   - [ ] [Bidirectional Associative Memory] (https://en.wikipedia.org/wiki/Bidirectional_associative_memory)
   - [ ] [Long Short Time Memory] (http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
   - [ ] [Hopfield Network] (https://en.wikipedia.org/wiki/Hopfield_network)
-  - [ ] [Gaussian Mixture Models] (http://scikit-learn.org/stable/modules/mixture.html) 
+  - [ ] [Gaussian Mixture Models] (http://scikit-learn.org/stable/modules/mixture.html)
+- [ ] Frameworks and Tools
+  - [ ] [Gaussian Mixture Models] (http://scikit-learn.org/stable/modules/mixture.html)
   - [ ] Frameworks and Tools
   - [ ] [Torch](http://torch.ch/)
   - [ ] [Theano](https://github.com/Theano/Theano)

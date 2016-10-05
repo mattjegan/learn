@@ -21,6 +21,7 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
 - [ ] [Vim] (https://robots.thoughtbot.com/the-vim-learning-curve-is-a-myth)
 - [ ] [GitHub Desktop] (https://desktop.github.com/)
 - [ ] [GitKraken] (https://www.gitkraken.com/)
+- [_] [Logstash] (www.elastic.co/products/logstash)
 
 ## "Programming" Languages
 

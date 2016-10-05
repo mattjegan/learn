@@ -37,6 +37,7 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
   - [ ] [Oracle JET](http://www.oracle.com/webfolder/technetwork/jet/index.html)
 - [ ] [C](http://www.tutorialspoint.com/cprogramming/)
 - [ ] [C++](http://www.tutorialspoint.com/cplusplus/)
+  - [_] [Qt](https://www.qt.io/)
 - [ ] [D](https://dlang.org/)
 - [ ] [Haskell](https://www.haskell.org/)
 - [x] [HTML](https://www.w3.org/html/)

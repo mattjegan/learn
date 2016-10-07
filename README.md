@@ -35,6 +35,7 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
   - [ ] [Express.js](https://expressjs.com/)
   - [ ] [ES6](https://en.wikipedia.org/wiki/ECMAScript#6th_Edition_-_ECMAScript_2015)
   - [ ] [Oracle JET](http://www.oracle.com/webfolder/technetwork/jet/index.html)
+  - [ ] [Ionic](http://ionicframework.com/getting-started/)
 - [ ] [C](http://www.tutorialspoint.com/cprogramming/)
 - [ ] [C++](http://www.tutorialspoint.com/cplusplus/)
   - [_] [Qt](https://www.qt.io/)

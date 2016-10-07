@@ -72,6 +72,7 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
 
 ## Machine Learning
 - [ ] [Concepts and Techniques](https://en.wikipedia.org/wiki/Machine_learning)
+  - [ ] [Machine Learning Coursera Course](https://www.coursera.org/learn/machine-learning)
   - [ ] [Linear Classifiers](https://en.wikipedia.org/wiki/Linear_classifier)
   - [ ] [Bayesian Modelling](https://en.wikipedia.org/wiki/Bayesian_network)
   - [ ] [Neural Networks](https://en.wikipedia.org/wiki/Artificial_neural_network)

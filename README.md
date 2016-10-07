@@ -22,6 +22,9 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
 - [ ] [GitHub Desktop] (https://desktop.github.com/)
 - [ ] [GitKraken] (https://www.gitkraken.com/)
 - [_] [Logstash] (www.elastic.co/products/logstash)
+- [ ] [Z-shell] (http://www.zsh.org/)
+- [ ] [Emacs] (https://www.gnu.org/software/emacs/)
+- [ ] [Vim] (http://www.vim.org/)
 
 ## "Programming" Languages
 
@@ -35,6 +38,7 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
   - [ ] [Express.js](https://expressjs.com/)
   - [ ] [ES6](https://en.wikipedia.org/wiki/ECMAScript#6th_Edition_-_ECMAScript_2015)
   - [ ] [Oracle JET](http://www.oracle.com/webfolder/technetwork/jet/index.html)
+  - [ ] [D3.js](http://d3js.org)
 - [ ] [C](http://www.tutorialspoint.com/cprogramming/)
 - [ ] [C++](http://www.tutorialspoint.com/cplusplus/)
   - [_] [Qt](https://www.qt.io/)

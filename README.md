@@ -115,6 +115,8 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
 - [ ] [Game Theory](https://www.coursera.org/learn/game-theory-introduction)
 - [ ] [Number Theory](https://ocw.mit.edu/courses/mathematics/18-781-theory-of-numbers-spring-2012/)
 - [ ] [Computer Networks](http://www.saylor.org/site/wp-content/uploads/2012/02/Computer-Networking-Principles-Bonaventure-1-30-31-OTC1.pdf)
+- [ ] [Quantum Computing] (https://ocw.mit.edu/courses/mathematics/18-435j-quantum-computation-fall-2003/)
+- [ ] [Coding Theory] (https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-895-essential-coding-theory-fall-2004/)
 
 ## Internet of Things
 

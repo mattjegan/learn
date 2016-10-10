@@ -5,26 +5,26 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
 
 ## Tools
 
-- [ ] [Pyenv](https://github.com/yyuu/pyenv)
+- [x] [Pyenv](https://github.com/yyuu/pyenv)
 - [ ] [Kubernetes](http://kubernetes.io/)
 - [ ] [Docker](https://www.docker.com/)
 - [ ] [Vagrant](https://www.vagrantup.com/)
 - [ ] [GitLab](https://gitlab.com/)
+- [x] [Heroku](https://heroku.com/)
 - [ ] [Spark](http://spark.apache.org/)
 - [ ] [ElasticSearch](https://github.com/elastic/elasticsearch)
 - [ ] [MongoDB](https://www.mongodb.com/)
 - [ ] [Rancher](http://rancher.com/)
 - [ ] [Nginx](https://www.nginx.com)
 - [ ] [Let's Encrypt](https://letsencrypt.org/)
-- [ ] [Bash Shell](http://www.bash.academy/)
-- [ ] [AWS] (https://aws.amazon.com/)
+- [x] [Bash Shell](http://www.bash.academy/)
+- [x] [AWS] (https://aws.amazon.com/)
 - [ ] [Vim] (https://robots.thoughtbot.com/the-vim-learning-curve-is-a-myth)
-- [ ] [GitHub Desktop] (https://desktop.github.com/)
-- [ ] [GitKraken] (https://www.gitkraken.com/)
+- [x] [GitHub Desktop] (https://desktop.github.com/)
+- [x] [GitKraken] (https://www.gitkraken.com/)
 - [_] [Logstash] (www.elastic.co/products/logstash)
 - [ ] [Z-shell] (http://www.zsh.org/)
 - [ ] [Emacs] (https://www.gnu.org/software/emacs/)
-- [ ] [Vim] (http://www.vim.org/)
 
 ## "Programming" Languages
 
@@ -39,9 +39,9 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
   - [ ] [ES6](https://en.wikipedia.org/wiki/ECMAScript#6th_Edition_-_ECMAScript_2015)
   - [ ] [Oracle JET](http://www.oracle.com/webfolder/technetwork/jet/index.html)
   - [ ] [D3.js](http://d3js.org)
-- [ ] [C](http://www.tutorialspoint.com/cprogramming/)
-- [ ] [C++](http://www.tutorialspoint.com/cplusplus/)
-  - [_] [Qt](https://www.qt.io/)
+- [x] [C](http://www.tutorialspoint.com/cprogramming/)
+- [x] [C++](http://www.tutorialspoint.com/cplusplus/)
+  - [ ] [Qt](https://www.qt.io/)
 - [ ] [D](https://dlang.org/)
 - [ ] [Haskell](https://www.haskell.org/)
 - [x] [HTML](https://www.w3.org/html/)
@@ -49,7 +49,7 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
 - [ ] [SCSS](http://sass-lang.com/)
 - [x] [Java](http://www.tutorialspoint.com/java/)
 - [ ] [Elixir](http://elixir-lang.org/)
-  - [_] [Phoenix Framework](http://www.phoenixframework.org/)
+  - [ ] [Phoenix Framework](http://www.phoenixframework.org/)
 - [ ] [Erlang](https://www.erlang.org/)
 - [ ] [Tensorflow](https://www.tensorflow.org/)
 - [ ] [Scala](http://www.scala-lang.org/)
@@ -68,7 +68,7 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
 - [ ] [Scipy](https://scipy.org/)
 - [ ] [Matplotlib](http://matplotlib.org/)
 - [ ] [scikit-learn](http://scikit-learn.org/)
-- [ ] [asyncio](https://docs.python.org/3/library/asyncio.html)
+- [x] [asyncio](https://docs.python.org/3/library/asyncio.html)
 - [_] [Web2Py](http://www.web2py.com/)
 - [x] [Django](https://www.djangoproject.com/)
 - [_] [Flask](http://flask.pocoo.org/)
@@ -76,10 +76,10 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
 
 ## Machine Learning
 - [ ] [Concepts and Techniques](https://en.wikipedia.org/wiki/Machine_learning)
-  - [ ] [Linear Classifiers](https://en.wikipedia.org/wiki/Linear_classifier)
-  - [ ] [Bayesian Modelling](https://en.wikipedia.org/wiki/Bayesian_network)
+  - [x] [Linear Classifiers](https://en.wikipedia.org/wiki/Linear_classifier)
+  - [x] [Bayesian Modelling](https://en.wikipedia.org/wiki/Bayesian_network)
   - [ ] [Neural Networks](https://en.wikipedia.org/wiki/Artificial_neural_network)
-  - [ ] [Regression] (https://www.coursera.org/learn/ml-regression)
+  - [x] [Regression] (https://www.coursera.org/learn/ml-regression)
   - [ ] [K-Nearest Neighbors] (https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm)
   - [ ] [Clustering](https://en.wikipedia.org/wiki/Cluster_analysis)
   - [ ] [Reinforcement Learning] (https://en.wikipedia.org/wiki/Reinforcement_learning)
@@ -93,13 +93,12 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
   - [ ] [Gaussian Mixture Models] (http://scikit-learn.org/stable/modules/mixture.html)
 - [ ] Frameworks and Tools
   - [ ] [Gaussian Mixture Models] (http://scikit-learn.org/stable/modules/mixture.html)
-  - [ ] Frameworks and Tools
   - [ ] [Torch](http://torch.ch/)
   - [ ] [Theano](https://github.com/Theano/Theano)
   - [ ] [TensorFlow](https://www.tensorflow.org/)
   - [ ] [APIs] (https://www.codecademy.com/en/tracks/npr)
   - [ ] [Natural Language Processing] (http://www.nltk.org/)
-  - [ ] Extended Backus-Naur Form (EBNF)
+  - [x] Extended Backus-Naur Form (EBNF)
   
 ## Theory
 
@@ -113,8 +112,8 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
 - [ ] [Category Theory](https://en.wikipedia.org/wiki/Category_theory)
 - [ ] [Android](https://developer.android.com/training/index.html)
 - [ ] [Game Theory](https://www.coursera.org/learn/game-theory-introduction)
-- [ ] [Number Theory](https://ocw.mit.edu/courses/mathematics/18-781-theory-of-numbers-spring-2012/)
-- [ ] [Computer Networks](http://www.saylor.org/site/wp-content/uploads/2012/02/Computer-Networking-Principles-Bonaventure-1-30-31-OTC1.pdf)
+- [x] [Number Theory](https://ocw.mit.edu/courses/mathematics/18-781-theory-of-numbers-spring-2012/)
+- [x] [Computer Networks](http://www.saylor.org/site/wp-content/uploads/2012/02/Computer-Networking-Principles-Bonaventure-1-30-31-OTC1.pdf)
 - [ ] [Quantum Computing] (https://ocw.mit.edu/courses/mathematics/18-435j-quantum-computation-fall-2003/)
 - [ ] [Coding Theory] (https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-895-essential-coding-theory-fall-2004/)
 
@@ -122,10 +121,10 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
 
 - [ ] [Arduino](https://www.arduino.cc/)
 - [ ] [ESP8266](http://www.esp8266.com/)
-- [ ] [Raspberry Pi](https://www.raspberrypi.org/)
+- [x] [Raspberry Pi](https://www.raspberrypi.org/)
 
 ## CMS (content management system )
-### used for websites,blogs etc
+
 - [ ] [Wordpress CMS](https://wordpress.org/download/)
 - [ ] [October CMS](https://octobercms.com/docs/cms/themes)
 - [ ] [Joomla](https://www.joomla.org/)

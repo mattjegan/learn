@@ -113,6 +113,7 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
 - [ ] [Category Theory](https://en.wikipedia.org/wiki/Category_theory)
 - [ ] [Android](https://developer.android.com/training/index.html)
 - [ ] [Game Theory](https://www.coursera.org/learn/game-theory-introduction)
+- [ ] [Number Theory](https://ocw.mit.edu/courses/mathematics/18-781-theory-of-numbers-spring-2012/)
 - [ ] [Computer Networks](http://www.saylor.org/site/wp-content/uploads/2012/02/Computer-Networking-Principles-Bonaventure-1-30-31-OTC1.pdf)
 
 ## Internet of Things

@@ -59,6 +59,7 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
 - [ ] [Scala] (http://docs.scala-lang.org/tutorials/scala-for-java-programmers.html)
 - [ ] [Clojure] (http://clojure-doc.org/articles/tutorials/getting_started.html)
 - [ ] [R](https://www.coursera.org/learn/r-programming/)
+- [ ] [Nim] (http://nim-lang.org/)
 
 ### Python
 

@@ -42,6 +42,7 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
 - [x] [C](http://www.tutorialspoint.com/cprogramming/)
 - [x] [C++](http://www.tutorialspoint.com/cplusplus/)
   - [ ] [Qt](https://www.qt.io/)
+- [ ] [C#](https://msdn.microsoft.com/en-us/library/kx37x362.aspx)
 - [ ] [D](https://dlang.org/)
 - [ ] [Haskell](https://www.haskell.org/)
 - [x] [HTML](https://www.w3.org/html/)

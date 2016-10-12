@@ -22,7 +22,7 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
 - [ ] [Vim] (https://robots.thoughtbot.com/the-vim-learning-curve-is-a-myth)
 - [x] [GitHub Desktop] (https://desktop.github.com/)
 - [x] [GitKraken] (https://www.gitkraken.com/)
-- [_] [Logstash] (www.elastic.co/products/logstash)
+- [ ] [Logstash] (www.elastic.co/products/logstash)
 - [ ] [Z-shell] (http://www.zsh.org/)
 - [ ] [Emacs] (https://www.gnu.org/software/emacs/)
 
@@ -70,10 +70,10 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
 - [ ] [Matplotlib](http://matplotlib.org/)
 - [ ] [scikit-learn](http://scikit-learn.org/)
 - [x] [asyncio](https://docs.python.org/3/library/asyncio.html)
-- [_] [Web2Py](http://www.web2py.com/)
+- [ ] [Web2Py](http://www.web2py.com/)
 - [x] [Django](https://www.djangoproject.com/)
-- [_] [Flask](http://flask.pocoo.org/)
-- [_] [Pyramid](http://www.pylonsproject.org/)
+- [ ] [Flask](http://flask.pocoo.org/)
+- [ ] [Pyramid](http://www.pylonsproject.org/)
 
 ## Machine Learning
 - [ ] [Concepts and Techniques](https://en.wikipedia.org/wiki/Machine_learning)

@@ -25,6 +25,8 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
 - [ ] [Logstash] (www.elastic.co/products/logstash)
 - [ ] [Z-shell] (http://www.zsh.org/)
 - [ ] [Emacs] (https://www.gnu.org/software/emacs/)
+- [ ] [Npm] (https://www.npmjs.com/)
+- [ ] [Webpack] (https://webpack.github.io/)
 
 ## "Programming" Languages
 
@@ -39,6 +41,7 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
   - [ ] [ES6](https://en.wikipedia.org/wiki/ECMAScript#6th_Edition_-_ECMAScript_2015)
   - [ ] [Oracle JET](http://www.oracle.com/webfolder/technetwork/jet/index.html)
   - [ ] [D3.js](http://d3js.org)
+  - [ ] [Vue.js](http://vuejs.org/)
 - [x] [C](http://www.tutorialspoint.com/cprogramming/)
 - [x] [C++](http://www.tutorialspoint.com/cplusplus/)
   - [ ] [Qt](https://www.qt.io/)
@@ -101,7 +104,7 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
   - [ ] [APIs] (https://www.codecademy.com/en/tracks/npr)
   - [ ] [Natural Language Processing] (http://www.nltk.org/)
   - [x] Extended Backus-Naur Form (EBNF)
-  
+
 ## Theory
 
 - [ ] [Parellelism](https://computing.llnl.gov/tutorials/parallel_comp/)

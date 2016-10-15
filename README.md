@@ -27,6 +27,7 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
 - [ ] [Emacs] (https://www.gnu.org/software/emacs/)
 - [ ] [Npm] (https://www.npmjs.com/)
 - [ ] [Webpack] (https://webpack.github.io/)
+- [ ] [PlatformIO](https://github.com/platformio)
 
 ## "Programming" Languages
 
@@ -45,6 +46,7 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
 - [x] [C](http://www.tutorialspoint.com/cprogramming/)
 - [x] [C++](http://www.tutorialspoint.com/cplusplus/)
   - [ ] [Qt](https://www.qt.io/)
+  - [ ] [OpenCV](http://opencv.org/)
 - [ ] [C#](https://msdn.microsoft.com/en-us/library/kx37x362.aspx)
 - [ ] [D](https://dlang.org/)
 - [ ] [Haskell](https://www.haskell.org/)
@@ -78,6 +80,7 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
 - [x] [Django](https://www.djangoproject.com/)
 - [ ] [Flask](http://flask.pocoo.org/)
 - [ ] [Pyramid](http://www.pylonsproject.org/)
+- [ ] [Scapy](http://www.secdev.org/projects/scapy/doc/introduction.html)
 
 ## Machine Learning
 - [ ] [Concepts and Techniques](https://en.wikipedia.org/wiki/Machine_learning)
@@ -112,6 +115,7 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
 - [ ] Statistical Analysis
 - [ ] [Linear Programming](https://www.math.ucla.edu/~tom/LP.pdf)
 - [ ] [Operating Systems](https://www.udacity.com/wiki/ud923)
+  - [ ] [ROS](http://www.ros.org/about-ros/)
 - [ ] [Cryptography](https://www.coursera.org/learn/crypto)
 - [x] [RESTful web services](https://en.wikipedia.org/wiki/Representational_state_transfer)
 - [ ] [Category Theory](https://en.wikipedia.org/wiki/Category_theory)

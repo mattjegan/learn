@@ -127,7 +127,7 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
 - [ ] [Coding Theory] (https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-895-essential-coding-theory-fall-2004/)
 
 ## Internet of Things
-
+- [ ] [IOT DIY projects](http://www.instructables.com/)
 - [ ] [Arduino](https://www.arduino.cc/)
 - [ ] [ESP8266](http://www.esp8266.com/)
 - [x] [Raspberry Pi](https://www.raspberrypi.org/)

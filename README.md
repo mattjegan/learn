@@ -13,7 +13,7 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
 - [x] [Heroku](https://heroku.com/)
 - [ ] [Spark](http://spark.apache.org/)
 - [ ] [ElasticSearch](https://github.com/elastic/elasticsearch)
-- [ ] [MongoDB](https://www.mongodb.com/)
+- [x] [MongoDB](https://www.mongodb.com/)
 - [ ] [Rancher](http://rancher.com/)
 - [ ] [Nginx](https://www.nginx.com)
 - [ ] [Let's Encrypt](https://letsencrypt.org/)

@@ -9,7 +9,7 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
 - [ ] [Kubernetes](http://kubernetes.io/)
 - [ ] [Docker](https://www.docker.com/)
 - [ ] [Vagrant](https://www.vagrantup.com/)
-- [ ] [GitLab](https://gitlab.com/)
+- [x] [GitLab](https://gitlab.com/)
 - [x] [Heroku](https://heroku.com/)
 - [ ] [Spark](http://spark.apache.org/)
 - [ ] [ElasticSearch](https://github.com/elastic/elasticsearch)

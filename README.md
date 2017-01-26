@@ -103,7 +103,7 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
   - [ ] [Torch](http://torch.ch/)
   - [ ] [Theano](https://github.com/Theano/Theano)
   - [ ] [TensorFlow](https://www.tensorflow.org/)
-  - [ ] [APIs] (https://www.codecademy.com/en/tracks/npr)
+  - [x] [APIs] (https://www.codecademy.com/en/tracks/npr)
   - [x] [Natural Language Processing] (http://www.nltk.org/)
   - [x] Extended Backus-Naur Form (EBNF)
 
@@ -130,10 +130,3 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
 - [ ] [Arduino](https://www.arduino.cc/)
 - [ ] [ESP8266](http://www.esp8266.com/)
 - [x] [Raspberry Pi](https://www.raspberrypi.org/)
-
-## CMS (content management system )
-
-- [ ] [Wordpress CMS](https://wordpress.org/download/)
-- [ ] [October CMS](https://octobercms.com/docs/cms/themes)
-- [ ] [Joomla](https://www.joomla.org/)
-- [ ] [Drupal](https://www.drupal.org/)

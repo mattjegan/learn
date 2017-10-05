@@ -29,6 +29,7 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
 - [x] [Yarn](https://yarnpkg.com/)
 - [ ] [Webpack](https://webpack.github.io/)
 - [ ] [PlatformIO](https://github.com/platformio)
+- [x] [Micro Editor](https://github.com/zyedidia/micro)
 
 ## "Programming" Languages
 

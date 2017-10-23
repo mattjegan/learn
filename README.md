@@ -129,6 +129,7 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
 
 ## Internet of Things
 - [ ] [IOT DIY projects](http://www.instructables.com/)
+- [ ] [WiFi Positioning](https://blog.rocketsoftware.com/2015/11/indoor-positioning-iot/)
 - [ ] [Arduino](https://www.arduino.cc/)
 - [ ] [ESP8266](http://www.esp8266.com/)
 - [x] [Raspberry Pi](https://www.raspberrypi.org/)

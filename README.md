@@ -109,6 +109,13 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
   - [ ] [Natural Language Processing](http://www.nltk.org/)
   - [ ] Extended Backus-Naur Form (EBNF)
 
+## Deep Learning
+
+- [ ] [Self-Driving-Cars](https://selfdrivingcars.mit.edu/)
+
+## Artificial Intelligence
+
+- [ ] [Artificial General Intelligence](https://agi.mit.edu/)
 ## Theory
 
 - [ ] [Parellelism](https://computing.llnl.gov/tutorials/parallel_comp/)

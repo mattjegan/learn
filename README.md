@@ -15,10 +15,10 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
 - [ ] [ElasticSearch](https://github.com/elastic/elasticsearch)
 - [x] [MongoDB](https://www.mongodb.com/)
 - [ ] [Rancher](http://rancher.com/)
-- [ ] [Nginx](https://www.nginx.com)
+- [x] [Nginx](https://www.nginx.com)
 - [ ] [Let's Encrypt](https://letsencrypt.org/)
 - [x] [Bash Shell](http://www.bash.academy/)
-- [ ] [AWS](https://aws.amazon.com/)
+- [x] [AWS](https://aws.amazon.com/)
 - [ ] [Vim](https://robots.thoughtbot.com/the-vim-learning-curve-is-a-myth)
 - [x] [GitHub Desktop](https://desktop.github.com/)
 - [x] [GitKraken](https://www.gitkraken.com/)
@@ -27,7 +27,7 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
 - [ ] [Emacs](https://www.gnu.org/software/emacs/)
 - [x] [Npm](https://www.npmjs.com/)
 - [x] [Yarn](https://yarnpkg.com/)
-- [ ] [Webpack](https://webpack.github.io/)
+- [x] [Webpack](https://webpack.github.io/)
 - [ ] [PlatformIO](https://github.com/platformio)
 - [x] [Micro Editor](https://github.com/zyedidia/micro)
 
@@ -36,7 +36,7 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
 - [x] [Javascript](https://www.javascript.com/)
   - [x] [Jquery](https://jquery.com/)
   - [x] [Angular](https://angularjs.org/)
-  - [ ] [React](https://facebook.github.io/react/)
+  - [x] [React](https://facebook.github.io/react/)
   - [ ] [Ember](http://emberjs.com/)
   - [ ] [Backbone](http://backbonejs.org/)
   - [ ] [Node.js](https://nodejs.org/en/)
@@ -45,6 +45,7 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
   - [ ] [Oracle JET](http://www.oracle.com/webfolder/technetwork/jet/index.html)
   - [ ] [D3.js](http://d3js.org)
   - [ ] [Vue.js](http://vuejs.org/)
+- [x] [Sass](https://sass-lang.com/)
 - [x] [C](http://www.tutorialspoint.com/cprogramming/)
 - [x] [C++](http://www.tutorialspoint.com/cplusplus/)
   - [ ] [Qt](https://www.qt.io/)
@@ -80,6 +81,7 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
 - [x] [asyncio](https://docs.python.org/3/library/asyncio.html)
 - [ ] [Web2Py](http://www.web2py.com/)
 - [x] [Django](https://www.djangoproject.com/)
+- [x] [Django REST Framework](http://www.django-rest-framework.org/)
 - [ ] [Flask](http://flask.pocoo.org/)
 - [ ] [Pyramid](http://www.pylonsproject.org/)
 - [ ] [Scapy](http://www.secdev.org/projects/scapy/doc/introduction.html)
@@ -112,8 +114,7 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
 ## Theory
 
 - [ ] [Parellelism](https://computing.llnl.gov/tutorials/parallel_comp/)
-- [ ] [Concurrency](https://en.wikipedia.org/wiki/Concurrency_(computer_science))
-- [ ] Statistical Analysis
+- [x] [Concurrency](https://en.wikipedia.org/wiki/Concurrency_(computer_science))
 - [ ] [Linear Programming](https://www.math.ucla.edu/~tom/LP.pdf)
 - [ ] [Operating Systems](https://www.udacity.com/wiki/ud923)
   - [ ] [ROS](http://www.ros.org/about-ros/)
@@ -126,8 +127,8 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
 - [x] [Computer Networks](http://www.saylor.org/site/wp-content/uploads/2012/02/Computer-Networking-Principles-Bonaventure-1-30-31-OTC1.pdf)
 - [ ] [Quantum Computing](https://ocw.mit.edu/courses/mathematics/18-435j-quantum-computation-fall-2003/)
 - [ ] [Coding Theory](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-895-essential-coding-theory-fall-2004/)
-- [ ] [Blockchain](https://www.packtpub.com/big-data-and-business-intelligence/mastering-blockchain)
-- [ ] [Bitcoin](https://bitcoin.org/en/developer-documentation)
+- [x] [Blockchain](https://www.packtpub.com/big-data-and-business-intelligence/mastering-blockchain)
+- [x] [Bitcoin](https://bitcoin.org/en/developer-documentation)
 
 ## Internet of Things
 - [ ] [IOT DIY projects](http://www.instructables.com/)

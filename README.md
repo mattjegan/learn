@@ -36,6 +36,7 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
 - [x] [Javascript](https://www.javascript.com/)
   - [x] [Jquery](https://jquery.com/)
   - [x] [Angular](https://angularjs.org/)
+  - [x] [Angular 2](https://angular.io/)
   - [x] [React](https://facebook.github.io/react/)
   - [ ] [Ember](http://emberjs.com/)
   - [ ] [Backbone](http://backbonejs.org/)

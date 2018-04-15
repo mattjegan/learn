@@ -21,15 +21,15 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
 - [x] [AWS](https://aws.amazon.com/)
 - [ ] [Vim](https://robots.thoughtbot.com/the-vim-learning-curve-is-a-myth)
 - [x] [GitHub Desktop](https://desktop.github.com/)
-- [x] [GitKraken](https://www.gitkraken.com/)
+- [ ] [GitKraken](https://www.gitkraken.com/)
 - [ ] [Logstash](www.elastic.co/products/logstash)
-- [x] [Z-shell](http://www.zsh.org/)
+- [ ] [Z-shell](http://www.zsh.org/)
 - [ ] [Emacs](https://www.gnu.org/software/emacs/)
 - [x] [Npm](https://www.npmjs.com/)
 - [x] [Yarn](https://yarnpkg.com/)
 - [x] [Webpack](https://webpack.github.io/)
 - [ ] [PlatformIO](https://github.com/platformio)
-- [x] [Micro Editor](https://github.com/zyedidia/micro)
+- [ ] [Micro Editor](https://github.com/zyedidia/micro)
 
 ## "Programming" Languages
 
@@ -42,7 +42,7 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
   - [ ] [Backbone](http://backbonejs.org/)
   - [ ] [Node.js](https://nodejs.org/en/)
   - [ ] [Express.js](https://expressjs.com/)
-  - [x] [ES6](https://en.wikipedia.org/wiki/ECMAScript#6th_Edition_-_ECMAScript_2015)
+  - [ ] [ES6](https://en.wikipedia.org/wiki/ECMAScript#6th_Edition_-_ECMAScript_2015)
   - [ ] [Oracle JET](http://www.oracle.com/webfolder/technetwork/jet/index.html)
   - [ ] [D3.js](http://d3js.org)
   - [ ] [Vue.js](http://vuejs.org/)
@@ -56,14 +56,14 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
 - [ ] [Haskell](https://www.haskell.org/)
 - [x] [HTML](https://www.w3.org/html/)
 - [x] [CSS](https://www.w3.org/Style/CSS/Overview.en.html)
-- [x] [SCSS](http://sass-lang.com/)
+- [ ] [SCSS](http://sass-lang.com/)
 - [x] [Java](http://www.tutorialspoint.com/java/)
 - [ ] [Elixir](http://elixir-lang.org/)
   - [ ] [Phoenix Framework](http://www.phoenixframework.org/)
 - [ ] [Erlang](https://www.erlang.org/)
 - [ ] [Tensorflow](https://www.tensorflow.org/)
 - [ ] [Scala](http://www.scala-lang.org/)
-- [x] [Go](https://golang.org/)
+- [ ] [Go](https://golang.org/)
 - [ ] [Groovy](http://www.groovy-lang.org/)
 - [ ] [Haskell](https://www.haskell.org/)
 - [ ] [Scala](http://docs.scala-lang.org/tutorials/scala-for-java-programmers.html)
@@ -73,13 +73,13 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
 
 ### Python
 
-- [x] [Itertools](https://docs.python.org/3/library/itertools.html)
-- [x] [Futures](https://docs.python.org/3/library/concurrent.futures.html)
+- [ ] [Itertools](https://docs.python.org/3/library/itertools.html)
+- [ ] [Futures](https://docs.python.org/3/library/concurrent.futures.html)
 - [ ] [Numpy](http://www.numpy.org/)
 - [ ] [Scipy](https://scipy.org/)
 - [ ] [Matplotlib](http://matplotlib.org/)
 - [ ] [scikit-learn](http://scikit-learn.org/)
-- [x] [asyncio](https://docs.python.org/3/library/asyncio.html)
+- [ ] [asyncio](https://docs.python.org/3/library/asyncio.html)
 - [ ] [Web2Py](http://www.web2py.com/)
 - [x] [Django](https://www.djangoproject.com/)
 - [x] [Django REST Framework](http://www.django-rest-framework.org/)
@@ -108,9 +108,17 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
   - [ ] [Torch](http://torch.ch/)
   - [ ] [Theano](https://github.com/Theano/Theano)
   - [ ] [TensorFlow](https://www.tensorflow.org/)
-  - [x] [APIs](https://www.codecademy.com/en/tracks/npr)
-  - [x] [Natural Language Processing](http://www.nltk.org/)
-  - [x] Extended Backus-Naur Form (EBNF)
+  - [ ] [APIs](https://www.codecademy.com/en/tracks/npr)
+  - [ ] [Natural Language Processing](http://www.nltk.org/)
+  - [ ] Extended Backus-Naur Form (EBNF)
+
+## Deep Learning
+
+- [ ] [Self-Driving-Cars](https://selfdrivingcars.mit.edu/)
+
+## Artificial Intelligence
+
+- [ ] [Artificial General Intelligence](https://agi.mit.edu/)
 
 ## Theory
 
@@ -123,9 +131,9 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
 - [x] [RESTful web services](https://en.wikipedia.org/wiki/Representational_state_transfer)
 - [ ] [Category Theory](https://en.wikipedia.org/wiki/Category_theory)
 - [ ] [Android](https://developer.android.com/training/index.html)
-- [x] [Game Theory](https://www.coursera.org/learn/game-theory-introduction)
+- [ ] [Game Theory](https://www.coursera.org/learn/game-theory-introduction)
 - [x] [Number Theory](https://ocw.mit.edu/courses/mathematics/18-781-theory-of-numbers-spring-2012/)
-- [x] [Computer Networks](http://www.saylor.org/site/wp-content/uploads/2012/02/Computer-Networking-Principles-Bonaventure-1-30-31-OTC1.pdf)
+- [ ] [Computer Networks](http://www.saylor.org/site/wp-content/uploads/2012/02/Computer-Networking-Principles-Bonaventure-1-30-31-OTC1.pdf)
 - [ ] [Quantum Computing](https://ocw.mit.edu/courses/mathematics/18-435j-quantum-computation-fall-2003/)
 - [ ] [Coding Theory](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-895-essential-coding-theory-fall-2004/)
 - [x] [Blockchain](https://www.packtpub.com/big-data-and-business-intelligence/mastering-blockchain)
@@ -134,6 +142,6 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
 ## Internet of Things
 - [ ] [IOT DIY projects](http://www.instructables.com/)
 - [ ] [WiFi Positioning](https://blog.rocketsoftware.com/2015/11/indoor-positioning-iot/)
-- [ ] [Arduino](https://www.arduino.cc/)
-- [ ] [ESP8266](http://www.esp8266.com/)
+- [x] [Arduino](https://www.arduino.cc/)
+- [x] [ESP8266](http://www.esp8266.com/)
 - [x] [Raspberry Pi](https://www.raspberrypi.org/)

@@ -114,7 +114,7 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
 
 ## Deep Learning
 
-- [ ] [Introduction to Deep Learning] (http://introtodeeplearning.com/)
+- [ ] [Introduction to Deep Learning](http://introtodeeplearning.com/)
 - [ ] [Self-Driving-Cars](https://selfdrivingcars.mit.edu/)
 
 ## Artificial Intelligence

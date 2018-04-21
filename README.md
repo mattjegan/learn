@@ -124,12 +124,12 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
 ## Theory
 
 - [ ] [Parellelism](https://computing.llnl.gov/tutorials/parallel_comp/)
-- [x] [Concurrency](https://en.wikipedia.org/wiki/Concurrency_(computer_science))
+- [ ] [Concurrency](https://en.wikipedia.org/wiki/Concurrency_(computer_science))
 - [ ] [Linear Programming](https://www.math.ucla.edu/~tom/LP.pdf)
 - [ ] [Operating Systems](https://www.udacity.com/wiki/ud923)
   - [ ] [ROS](http://www.ros.org/about-ros/)
 - [ ] [Cryptography](https://www.coursera.org/learn/crypto)
-- [x] [RESTful web services](https://en.wikipedia.org/wiki/Representational_state_transfer)
+- [ ] [RESTful web services](https://en.wikipedia.org/wiki/Representational_state_transfer)
 - [ ] [Category Theory](https://en.wikipedia.org/wiki/Category_theory)
 - [ ] [Android](https://developer.android.com/training/index.html)
 - [ ] [Game Theory](https://www.coursera.org/learn/game-theory-introduction)
@@ -137,8 +137,8 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
 - [ ] [Computer Networks](http://www.saylor.org/site/wp-content/uploads/2012/02/Computer-Networking-Principles-Bonaventure-1-30-31-OTC1.pdf)
 - [ ] [Quantum Computing](https://ocw.mit.edu/courses/mathematics/18-435j-quantum-computation-fall-2003/)
 - [ ] [Coding Theory](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-895-essential-coding-theory-fall-2004/)
-- [x] [Blockchain](https://www.packtpub.com/big-data-and-business-intelligence/mastering-blockchain)
-- [x] [Bitcoin](https://bitcoin.org/en/developer-documentation)
+- [ ] [Blockchain](https://www.packtpub.com/big-data-and-business-intelligence/mastering-blockchain)
+- [ ] [Bitcoin](https://bitcoin.org/en/developer-documentation)
 
 ## Internet of Things
 - [ ] [IOT DIY projects](http://www.instructables.com/)

@@ -75,9 +75,9 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
 
 - [ ] [Itertools](https://docs.python.org/3/library/itertools.html)
 - [ ] [Futures](https://docs.python.org/3/library/concurrent.futures.html)
-- [ ] [Numpy](http://www.numpy.org/)
-- [ ] [Scipy](https://scipy.org/)
-- [ ] [Matplotlib](http://matplotlib.org/)
+- [x] [Numpy](http://www.numpy.org/)
+- [x] [Scipy](https://scipy.org/)
+- [x] [Matplotlib](http://matplotlib.org/)
 - [ ] [scikit-learn](http://scikit-learn.org/)
 - [ ] [asyncio](https://docs.python.org/3/library/asyncio.html)
 - [ ] [Web2Py](http://www.web2py.com/)

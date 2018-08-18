@@ -86,6 +86,7 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
 - [ ] [Flask](http://flask.pocoo.org/)
 - [ ] [Pyramid](http://www.pylonsproject.org/)
 - [ ] [Scapy](http://www.secdev.org/projects/scapy/doc/introduction.html)
+- [ ] [Keras](https://machinelearningmastery.com/introduction-python-deep-learning-library-keras/)
 
 ## Machine Learning
 - [ ] [Concepts and Techniques](https://en.wikipedia.org/wiki/Machine_learning)
@@ -108,6 +109,7 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
   - [ ] [Torch](http://torch.ch/)
   - [ ] [Theano](https://github.com/Theano/Theano)
   - [ ] [TensorFlow](https://www.tensorflow.org/)
+  - [ ] [PyTorch](https://pytorch.org/tutorials/)
   - [ ] [APIs](https://www.codecademy.com/en/tracks/npr)
   - [ ] [Natural Language Processing](http://www.nltk.org/)
   - [ ] Extended Backus-Naur Form (EBNF)

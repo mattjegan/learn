@@ -30,6 +30,7 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
 - [ ] [Webpack](https://webpack.github.io/)
 - [ ] [PlatformIO](https://github.com/platformio)
 - [ ] [Micro Editor](https://github.com/zyedidia/micro)
+- [ ] [RabbitMQ](http://www.rabbitmq.com/getstarted.html)
 
 ## "Programming" Languages
 

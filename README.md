@@ -64,11 +64,10 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
   - [ ] [Phoenix Framework](http://www.phoenixframework.org/)
 - [ ] [Erlang](https://www.erlang.org/)
 - [ ] [Tensorflow](https://www.tensorflow.org/)
-- [ ] [Scala](http://www.scala-lang.org/)
+- [x] [Scala](http://www.scala-lang.org/)
 - [x] [Go](https://golang.org/)
 - [ ] [Groovy](http://www.groovy-lang.org/)
 - [ ] [Haskell](https://www.haskell.org/)
-- [ ] [Scala](http://docs.scala-lang.org/tutorials/scala-for-java-programmers.html)
 - [ ] [Clojure](http://clojure-doc.org/articles/tutorials/getting_started.html)
 - [ ] [R](https://www.coursera.org/learn/r-programming/)
 - [ ] [Nim](http://nim-lang.org/)
@@ -82,7 +81,7 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
 - [ ] [Scipy](https://scipy.org/)
 - [ ] [Matplotlib](http://matplotlib.org/)
 - [ ] [scikit-learn](http://scikit-learn.org/)
-- [ ] [asyncio](https://docs.python.org/3/library/asyncio.html)
+- [x] [asyncio](https://docs.python.org/3/library/asyncio.html)
 - [x] [Web2Py](http://www.web2py.com/)
 - [x] [Django](https://www.djangoproject.com/)
 - [x] [Django REST Framework](http://www.django-rest-framework.org/)
@@ -113,7 +112,7 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
   - [ ] [TensorFlow](https://www.tensorflow.org/)
   - [ ] [APIs](https://www.codecademy.com/en/tracks/npr)
   - [ ] [Natural Language Processing](http://www.nltk.org/)
-  - [ ] Extended Backus-Naur Form (EBNF)
+  - [x] Extended Backus-Naur Form (EBNF)
 
 ## Deep Learning
 

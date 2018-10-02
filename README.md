@@ -30,6 +30,7 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
 - [x] [Webpack](https://webpack.github.io/)
 - [ ] [PlatformIO](https://github.com/platformio)
 - [x] [Micro Editor](https://github.com/zyedidia/micro)
+- [ ] [InfluxDB](https://www.influxdata.com/)
 
 ## "Programming" Languages
 

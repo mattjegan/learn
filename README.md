@@ -148,3 +148,8 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
 - [x] [Arduino](https://www.arduino.cc/)
 - [x] [ESP8266](http://www.esp8266.com/)
 - [x] [Raspberry Pi](https://www.raspberrypi.org/)
+
+## Human Languages
+- [ ] [German (Deutsch)](https://www.duolingo.com/course/de/en/Learn-German-Online)
+- [ ] [Spanish (Español)](https://www.duolingo.com/course/es/en/Learn-Spanish-Online)
+- [ ] [English (English)](https://www.duolingo.com/course/en/hu/Learn-English-Online)
